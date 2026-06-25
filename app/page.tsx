@@ -5,7 +5,7 @@ import { Card, CardDescription, CardHeader, CardTitle } from "@/components/ui/ca
 
 export default function Home() {
   return (
-    <div className="flex flex-1 flex-col gap-8">
+    <div className="flex flex-1 flex-col gap-9">
       <section className="space-y-6">
         <Badge variant="secondary" className="w-full">NEON auth + Prisma + Next.js</Badge>
         <h1 className="text-4xl font-semibold tracking-tight">
